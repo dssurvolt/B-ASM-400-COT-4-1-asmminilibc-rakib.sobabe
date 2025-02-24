@@ -13,7 +13,7 @@ ASFLAGS	= 	-f elf64
 
 SRC		=
 
-T_SRC	=
+T_SRC	= 
 
 OBJ		= 	$(SRC:.asm=.o)
 
